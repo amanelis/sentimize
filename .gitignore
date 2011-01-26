@@ -1,0 +1,10 @@
+*.log
+.DS_Store
+doc
+docs
+pkg
+coverage
+*.swp
+Gemfile
+Gemfile.lock
+.bundle
